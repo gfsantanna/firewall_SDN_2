@@ -1,0 +1,23 @@
+# pack-refs with: peeled 
+10b5c91507961217e14f53219001c653c2cd28c9 refs/tags/v0.85
+b24506b1c900d17f21cd33e808f47ead42d8741f refs/tags/v0.82
+ab0492844a075045d0b07f8d0bf8b8778f1d8837 refs/tags/v0.8
+^179a71a4374c831b43690c1c5135e03f8d049aa3
+0d4de9e93a3809b5baff4287e89f95e3a87ec539 refs/tags/fl-last-passed-build
+ecc9849980e045e87c7037512d5935c17571eacf refs/tags/asplus-rc5
+065d0b635db3363197a4ff89a0b365474185d14f refs/tags/asplus-rc2
+^8bfbb0889c9ced43f0e0dbe30ca1ea04dc45c191
+fc37a72175a80c376e720e1b2c62c6ec240c065d refs/remotes/origin/yeti-st
+fd01775f727e04135ae197eb445ac40ea65c03dc refs/remotes/origin/yeti
+3b1ed52a9670dfd47aaab9029d25d1f3f7fa4619 refs/remotes/origin/xenon
+1d0b41dd2fe4fe3e412684d590ae3c50a7a2cd43 refs/remotes/origin/wallaby
+0d4de9e93a3809b5baff4287e89f95e3a87ec539 refs/remotes/origin/v0.90
+10b5c91507961217e14f53219001c653c2cd28c9 refs/remotes/origin/v0.85
+b24506b1c900d17f21cd33e808f47ead42d8741f refs/remotes/origin/v0.82
+21c1eddbbe674cd0ff06c0c5210a7422b43dc880 refs/remotes/origin/v0.8
+8a912034eb219c38f0343c60b055ee7f8fead231 refs/remotes/origin/release.asplus.bvs
+be2f6ead3e3e183f9462e4b55719b3d34c2aacea refs/remotes/origin/release.asplus
+80ac8895d045501b98942e122e82724274d69f49 refs/remotes/origin/perf-test
+e751f95a6ae82ec806e9941938d50e80053eff05 refs/remotes/origin/master-green
+0d4de9e93a3809b5baff4287e89f95e3a87ec539 refs/remotes/origin/master
+17cda664ea67715fb47e5a81cce9f3de9c19f8f6 refs/remotes/origin/hot-failover

@@ -1,0 +1,13 @@
+#!/bin/bash
+#
+# Whenever git-clone or git-checkout is run in this repository, link
+# any scripts from the .hooks directory into .git/hooks .
+#
+for f in .hooks/*; do
+  if [ -x "$f" ]; then
+    ln -snf ../../"$f" .git/hooks/.
+  fi
+done
+if [ -x .git/hooks/post-checkout-local ]; then
+  exec .git/hooks/post-checkout-local "$@"
+fi
